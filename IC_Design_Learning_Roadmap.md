@@ -61,28 +61,28 @@ FOUNDATIONS
 - [ ] Decibel calculations
 
 ### Circuit Fundamentals
-- [ ] Ohm's law
-- [ ] KCL / KVL
-- [ ] Voltage, current, power
-- [ ] Thevenin / Norton
-- [ ] RC / RL / RLC circuits
-- [ ] Transient analysis
-- [ ] AC analysis
-- [ ] Frequency response
-- [ ] Bode plots
+- [x] Ohm's law
+- [x] KCL / KVL
+- [x] Voltage, current, power
+- [x] Thevenin / Norton
+- [x] RC / RL / RLC circuits
+- [x] Transient analysis
+- [x] AC analysis
+- [x] Frequency response
+- [x] Bode plots
 
 ### Semiconductor Fundamentals
-- [ ] PN junction
-- [ ] Diode
-- [ ] BJT basics
-- [ ] MOS capacitor
-- [ ] NMOS / PMOS
-- [ ] CMOS
+- [x] PN junction
+- [x] Diode
+- [x] BJT basics
+- [x] MOS capacitor
+- [x] NMOS / PMOS
+- [x] CMOS
 - [ ] Threshold voltage
-- [ ] Cutoff / triode / saturation
-- [ ] Body effect
-- [ ] Channel-length modulation
-- [ ] Small-signal model
+- [x] Cutoff / triode / saturation
+- [x] Body effect
+- [x] Channel-length modulation
+- [x] Small-signal model
 
 ### Tools
 - [ ] Linux terminal / Bash
@@ -96,13 +96,13 @@ FOUNDATIONS
 ## Phase 1 — Digital Logic
 
 ### Boolean Logic
-- [ ] Binary / hexadecimal
-- [ ] Boolean algebra
-- [ ] Truth tables
+- [x] Binary / hexadecimal
+- [x] Boolean algebra
+- [x] Truth tables
 - [ ] De Morgan's laws
-- [ ] Logic gates
-- [ ] NAND / NOR as universal gates
-- [ ] XOR / XNOR
+- [x] Logic gates
+- [x] NAND / NOR as universal gates
+- [x] XOR / XNOR
 - [ ] Karnaugh maps
 
 ### Combinational Logic
